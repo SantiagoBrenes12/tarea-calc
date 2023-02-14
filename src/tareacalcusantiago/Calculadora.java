@@ -54,7 +54,7 @@ public class Calculadora {
                 JOptionPane.showMessageDialog(null, "El resultado de la division es: "+division(this.numero1,this.numero2));
                 break;
             default:
-                throw new AssertionError();
+                JOptionPane.showMessageDialog(null, "Ingrese una opcion valida");
         }
     }
     
