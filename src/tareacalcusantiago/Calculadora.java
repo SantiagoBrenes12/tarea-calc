@@ -6,10 +6,7 @@ package tareacalcusantiago;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Puta'
- */
+
 public class Calculadora {
     public int numero1;
     public int numero2;
